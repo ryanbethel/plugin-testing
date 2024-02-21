@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "sandbox",
+    "test": "tape test/*.mjs | tap-arc"
+  },
+  "dependencies": {
+    "@enhance/arc-plugin-enhance": "^9.4.11"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^6.0.2"
+  }
+}
