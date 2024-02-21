@@ -3,4 +3,4 @@ plugin-tests
 
 @plugins
 enhance/arc-plugin-enhance
-../../my-plugin.js
+"../../my-plugin.js"
